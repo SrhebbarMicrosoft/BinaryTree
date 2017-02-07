@@ -1,4 +1,4 @@
 notify:
   webhooks:
-  - url: http://6d29f128.ngrok.io/webhook/3a60ec9e-c52e-4174-b74c-789476bec0ce@90d7dffb-78db-4ef2-a069-985847f964da/CircleCI/3a12015198cc4775b0b8ad43fe97ee1d/admin@tenant-EXHR-8091.com/test
+  - url: https://outlook.office.com/webhook/ca32e350-d0aa-461a-8e84-c01d2af86bda@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/a448850fe433427ea1acc2bf6321390c/a17a5cc4-4a98-4fd2-b7d6-9260e1e24fa0
   - url: http://requestb.in/t7cwlht7
