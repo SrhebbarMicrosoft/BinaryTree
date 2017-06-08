@@ -1,4 +1,4 @@
 notify:
   webhooks:
-  - url: https://outlook.office.com/webhook/ca32e350-d0aa-461a-8e84-c01d2af86bda@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/a448850fe433427ea1acc2bf6321390c/a17a5cc4-4a98-4fd2-b7d6-9260e1e24fa0
+  - url: https://outlook.office.com/webhook/629ef99b-ddb2-4733-adbe-f6be76767ae1@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/8643520c3826415bb01f3a857bc46638/a17a5cc4-4a98-4fd2-b7d6-9260e1e24fa0
   - url: https://requestb.in/1lwosx61
